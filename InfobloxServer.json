@@ -1,0 +1,69 @@
+{
+            "_ref": "network/ZG5zLm5ldHdvcmskMTcyLjIwLjY4LjAvMjQvMA:172.20.68.0/24/default",
+            "extattrs": {
+                "Campus": {
+                    "value": "Oxford"
+                },
+                "Config Services": {
+                    "value": "DHCP -OxfInt"
+                },
+                "DHCP End": {
+                    "value": 239
+                },
+                "DHCP Start": {
+                    "value": 11
+                },
+                "Default Router": {
+                    "value": "172.20.68.254"
+                },
+                "IP Broadcast Address": {
+                    "value": "172.20.68.255"
+                },
+                "IP Subnet": {
+                    "value": "172.20.68.0/24"
+                },
+                "KnowledgeBase Classification": {
+                    "value": "Internal"
+                },
+                "Network Prefix": {
+                    "value": "172.20.68.0 / 24"
+                },
+                "OLD DO NOT USE Router / Firewall": {
+                    "value": "CABHUBROU125T-1"
+                },
+                "OSPF Area": {
+                    "value": "0.0.0.2"
+                },
+                "Prefix Length": {
+                    "value": "24"
+                },
+                "Router/Firewall": {
+                    "value": "CABHUBROU125T-1"
+                },
+                "Security Status": {
+                    "value": "Good"
+                },
+                "Security Summary Level": {
+                    "value": "9 No further division anticipated"
+                },
+                "Security Type": {
+                    "value": "Nousers"
+                },
+                "Subnet Mask": {
+                    "value": "255.255.255.0"
+                },
+                "VLAN Number": {
+                    "value": "0204"
+                },
+                "VLAN Purpose": {
+                    "value": "VoIP  RDB LEW"
+                },
+                "VLAN Range 1": {
+                    "value": "0190-0299"
+                },
+                "VLAN Status": {
+                    "value": "Active"
+                }
+            },
+            "network": "172.20.68.0/24"
+        }
